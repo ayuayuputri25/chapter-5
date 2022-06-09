@@ -1,0 +1,14 @@
+{
+  "name": "play-traditional-game",
+  "version": "1.0.0",
+  "description": "your-childhood-game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "ayu",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
